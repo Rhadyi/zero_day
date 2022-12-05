@@ -1,1 +1,1 @@
-This a repo for git bash projects
+This is a directory inside the new repo
